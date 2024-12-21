@@ -29,3 +29,9 @@ target/
 SparrowRecSys.iml
 TFRecModel.iml
 RecPySpark.iml
+.python-version
+*.pb
+*.pyc
+*.h5
+*.json
+TFRecModel/src/com/sparrowrecsys/offline/tensorflow/saved_model/*
